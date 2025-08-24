@@ -14,7 +14,7 @@ Remix Ethereum Download gives developers fast access to the powerful Remix IDE i
 
 ---
 
-![Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYHwRXvfEkghM0rtI6b4lIVURfkp-S07LOOg&s)
+![Screenshot](https://remix-project.org/static/media/remix-editor.10daec2c54f11014c260.png)
 
 ##  Installation Instructions
 1. For web use: open your browser and go to `remix.ethereum.org`.  
